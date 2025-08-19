@@ -16,7 +16,7 @@ body {
   font-family: var(--bodyFont);
   color: #fff;
   text-align: center;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .intro, footer{
